@@ -1,0 +1,103 @@
+#BgImage{
+    -fx-background-image: url('index1.jpg');
+    -fx-background-repeat: stretch;
+    -fx-background-size: 1450 900;
+    -fx-background-position: center center;
+}
+#BgImage2{
+    -fx-background-image: url('index2.jpg');
+    -fx-background-repeat: stretch;
+    -fx-background-size: 1300 1100;
+}
+#Content{
+    -fx-background-color: linear-gradient(lightslategrey,dimgrey);
+    -fx-opacity: 0.9;
+    -fx-background-radius: 30px;
+}
+#MainHeading1{
+    -fx-text-fill: linear-gradient(black,darkblue,brown) ;
+    -fx-font-family: 'Comic Sans MS';
+    -fx-font-weight: bolder;
+    -fx-font-size: 50px;
+}
+#Button{
+    -fx-background-color: linear-gradient(wheat,antiquewhite);
+    -fx-border-color: black;
+    -fx-min-width: 50px;
+    -fx-min-height: 50px;
+    -fx-border-radius: 100px;
+    -fx-background-radius: 100px;
+}
+#Button:hover{
+    -fx-background-color: linear-gradient(yellow,yellowgreen,green);
+    -fx-border-color: black;
+    -fx-min-width: 50px;
+    -fx-min-height: 50px;
+    -fx-border-radius: 100px;
+    -fx-background-radius: 100px;
+}
+#Table{
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+#SearchBox{
+    -fx-min-width: 350px;
+    -fx-min-height: 35px;
+    -fx-background-radius: 30px;
+}
+#SearchBtn{
+    -fx-background-color: linear-gradient(wheat,antiquewhite);
+    -fx-font-weight: bolder;
+    -fx-background-radius: 30px;
+    -fx-text-fill: black;
+}
+#SearchBtn:hover{
+    -fx-background-color: linear-gradient(yellow,yellowgreen,green);
+    -fx-font-weight: bolder;
+    -fx-background-radius: 30px;
+    -fx-text-fill: black;
+}
+#SortBtn{
+    -fx-background-color: linear-gradient(indianred,palevioletred,royalblue);
+    -fx-font-weight: bolder;
+    -fx-border-color: black;
+    -fx-min-width: 150px;
+    -fx-min-height: 100px;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+}
+#SortBtn:hover{
+    -fx-background-color: linear-gradient(yellow,yellowgreen,green);
+    -fx-font-weight: bolder;
+    -fx-border-color: black;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+}
+#SortBtn1{
+    -fx-background-color: linear-gradient(indianred,palevioletred,royalblue);
+    -fx-font-weight: bolder;
+    -fx-border-color: black;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+}
+#SortBtn1:hover{
+    -fx-background-color: linear-gradient(yellow,yellowgreen,green);
+    -fx-font-weight: bolder;
+    -fx-border-color: black;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+}
+#MainLbl{
+    -fx-font-size: 20px;
+    -fx-font-weight: bolder;
+}
+#Content1{
+    -fx-background-image: url('index3.jpg');
+    -fx-background-repeat: stretch;
+    -fx-background-size: 1400 800;
+    -fx-background-position: center center;
+}
+#SearchHeading{
+    -fx-text-fill: white;
+    -fx-font-size: 24px;
+}

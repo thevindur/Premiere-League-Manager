@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e8b7751-d226-40b0-b297-0574067fe566" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/proxy.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/app/app.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/app/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/app/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/app/home/home.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/app/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/app/view-clubs/view-clubs.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/app/view-clubs/view-clubs.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/app/view-clubs/view-clubs.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/app/view-clubs/view-clubs.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/app/view-matches/view-matches.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/app/view-matches/view-matches.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/app/view-matches/view-matches.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/app/view-matches/view-matches.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/assets/img/home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/assets/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/proxy.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular_and_play/ui/tslint.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/angular_and_play/ui" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1mUQvzemSdPUNlUDKtMqizXHUda" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/angular_and_play/ui/node_modules/protractor" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rog\Desktop\Premier League Manager\java\src" />
+      <recent name="C:\Users\rog\Desktop\Premier League Manager\java\src\sample" />
+      <recent name="C:\Users\rog\Desktop\Premier League Manager\java" />
+      <recent name="C:\Users\rog\Desktop\Premier League Manager" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="sample" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="sample" />
+      <recent name="Test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FootballClubTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sample" />
+      <option name="MAIN_CLASS_NAME" value="sample.FootballClubTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E2E Tests (ui)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/angular_and_play/ui/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-package value="$PROJECT_DIR$/angular_and_play/ui/node_modules/protractor" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/angular_and_play/ui/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.FootballClubTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e8b7751-d226-40b0-b297-0574067fe566" name="Default Changelist" comment="" />
+      <created>1609545924586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609545924586</updated>
+      <workItem from="1609545926484" duration="44000" />
+      <workItem from="1609667781224" duration="66000" />
+      <workItem from="1609668114831" duration="2485000" />
+      <workItem from="1609676033826" duration="25000" />
+      <workItem from="1609695604897" duration="11514000" />
+      <workItem from="1610662875708" duration="915000" />
+      <workItem from="1610663809709" duration="82000" />
+      <workItem from="1610686996772" duration="1756000" />
+      <workItem from="1610689318090" duration="895000" />
+      <workItem from="1610690232652" duration="1715000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

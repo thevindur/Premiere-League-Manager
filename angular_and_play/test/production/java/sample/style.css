@@ -1,0 +1,27 @@
+#pane{
+    -fx-background-image: url('index.jpg');
+    -fx-background-repeat: stretch;
+    -fx-background-size: 1200 900;
+    -fx-background-position: center center;
+}
+#Button{
+    -fx-background-color: linear-gradient(white, antiquewhite);
+    -fx-font-family: 'Comic Sans MS';
+    -fx-font-weight: bolder;
+    -fx-font-size: 18px;
+    -fx-text-fill: black;
+    -fx-border-color: black;
+    -fx-min-width: 300px;
+    -fx-min-height: 100px;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+}
+#Button:hover{
+    -fx-background-color: linear-gradient(yellow,yellowgreen,green);
+    -fx-background-insets: 0 0 -1 0, 0, 1, 2;
+    -fx-background-radius: 10px;
+    -fx-border-radius: 10px;
+    -fx-text-fill: white;
+    -fx-alignment: CENTER;
+    -fx-content-display: LEFT;
+}

@@ -1,0 +1,29 @@
+<div id="box">
+  <p id="HeadingPL">Premier League Match Statistics</p>
+  <div id="buttonAlign">
+    <div id="Left">
+
+      <label for="sInput">Enter the Date : </label>
+      <input placeholder="DD-MM-YYYY" ngModel="" id="sInput" ng-change="filterCartoList(searchInput)" my-enter="filterCartoList(searchInput)">
+
+      <button type="button" class="buttonSearch">Search</button>
+    </div>
+    <div id="Right1">
+      <button type="button" class="buttonSort">Sort: Date Played</button>
+    </div>
+    <div id="Right2">
+      <button type="button" class="buttonSort">Random Match</button>
+    </div>
+  </div>
+  <div id="tableAlign">
+    <table border="5" id="table">
+      <tr>
+        <th>Club One Name</th>
+        <th>Club Two Name</th>
+        <th>Club One Score</th>
+        <th>Club Two Score</th>
+        <th>Date Played</th>
+      </tr>
+    </table>
+  </div>
+</div>
